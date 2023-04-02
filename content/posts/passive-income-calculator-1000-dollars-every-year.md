@@ -1,5 +1,5 @@
 ---
-title: "Passive Income Calculator : Yes, you can earn $1000 without budgeting !"
+title: "Passive Income Calculator : Yes, you can earn $1000 without working !"
 date: 2023-04-01T01:09:48-07:00
 description: "Where to start..."
 featured_image: "/ariaalessiarts_person_being_super_happy_credit_card_savings_edf08540-3458-49c4-955c-8436131826da.png"
