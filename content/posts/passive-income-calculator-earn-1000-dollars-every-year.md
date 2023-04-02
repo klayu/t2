@@ -1,7 +1,7 @@
 ---
 title: "Passive Income Calculator : Yes, you can earn $1000 without working !"
 date: 2023-04-01T01:09:48-07:00
-description: "Where to start..."
+description: "There are many ways to earn and here we talk about earning cashback by using the right credit cards"
 featured_image: "/ariaalessiarts_person_being_super_happy_credit_card_savings_edf08540-3458-49c4-955c-8436131826da.png"
 tags: ["credit cards"]
 ---
