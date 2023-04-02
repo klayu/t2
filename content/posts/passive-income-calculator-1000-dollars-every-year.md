@@ -1,5 +1,5 @@
 ---
-title: "Pasive Income Calculator : Yes, you can earn $1000 without budgeting !"
+title: "Passive Income Calculator : Yes, you can earn $1000 without budgeting !"
 date: 2023-04-01T01:09:48-07:00
 description: "Where to start..."
 featured_image: "/ariaalessiarts_person_being_super_happy_credit_card_savings_edf08540-3458-49c4-955c-8436131826da.png"
@@ -22,7 +22,7 @@ If you are just begining the joruney on earning **passive income**, these are a 
 I just did a in depth analysis that shows that an average family can earn upto $1000 in cash ever.
 ![passive-income-calculator](/calculator.png)
 
-Now go ahead, visit this **passive income calculator** for **free** [Passive Income Calculator using Cards](https://docs.google.com/spreadsheets/d/1Mhdh2HpYxMD0D2Wn_3wh8SoCt0VjEGkTWt4YvEhh29Q/edit?usp=sharing) ! -->
+Now go ahead, visit this **passive income calculator** for **free** [Passive Income Calculator using Cards](https://docs.google.com/spreadsheets/d/1Mhdh2HpYxMD0D2Wn_3wh8SoCt0VjEGkTWt4YvEhh29Q/edit?usp=sharing) 
 
 
 Read more below to see what these are and how can we use theme to put some extra cash in our pocket.
