@@ -3,11 +3,15 @@ languageCode = "en-us"
 title = "Relaxed Income"
 theme = "ananke"
 publishDir = "public"
-[permalinks]
-  posts = "/:filename"
+
 enableRobotsTXT = true
 googleAnalytics = "G-G1TTB1QKFD"
 disqusShortname = 'relaxedincome'
+
+
+
+[permalinks]
+  posts = "/:filename"
 
 
 [sitemap]
