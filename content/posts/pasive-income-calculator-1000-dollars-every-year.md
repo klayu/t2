@@ -11,6 +11,8 @@ tags: ["credit cards"]
 
 Visit the [Hugo](https://gohugo.io) website! -->
 
+hu 
+
 ## What is Passive Income
 Passive income refers to income earned without active involvement or ongoing effort on your part. It can provide financial security and stability, but it's important to note that all investment comes with some level of risk.
 
