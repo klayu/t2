@@ -24,7 +24,7 @@ I just did a in depth analysis that shows that an average family can earn upto $
 
 Now go ahead, try out this custom **passive income calculator** for **free** [Passive Income Calculator using Credit Cards](https://docs.google.com/spreadsheets/d/1Mhdh2HpYxMD0D2Wn_3wh8SoCt0VjEGkTWt4YvEhh29Q/edit?usp=sharing). Just replace four of your most common houshold expenses with what your family realistically spends and see how much you get to earn in cashbacks every month and year.
 
-Read more below to see what these are and how can we use theme to put some extra cash in our pocket.
+Read more below to see what these are and how we can strategically use them to put some extra cash in our pocket.
 
 ![some-pic](/ariaalessiarts_person_being_super_happy_credit_card_savings_edf08540-3458-49c4-955c-8436131826da.png)
 
