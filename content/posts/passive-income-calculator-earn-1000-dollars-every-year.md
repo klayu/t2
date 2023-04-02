@@ -17,7 +17,7 @@ Passive income refers to income earned without active involvement or ongoing eff
 ## Start with Credit Cards
 Credit cards are a popular tool for making purchases, with their convenience and rewards programs being major selling points. However, many credit cards can actually end up costing you more money in interest and fees if you're not careful. One way to get the most out of your credit card is by using cashback credit cards, which can help you save money and earn rewards on your purchases. 
 
-If you are just begining the joruney on earning **passive income**, these are a great way to a decent amount of cash.
+If you are just begining the joruney on earning **passive income**, these are a great way to earn a decent amount of cash.
 
 I just did a in depth analysis that shows that an average family can earn upto $1000 in cash ever.
 ![passive-income-calculator](/calculator.png)
