@@ -11,7 +11,7 @@ tags: ["credit cards"]
 
 Visit the [Hugo](https://gohugo.io) website! -->
 
-hu 
+hu 1
 
 ## What is Passive Income
 Passive income refers to income earned without active involvement or ongoing effort on your part. It can provide financial security and stability, but it's important to note that all investment comes with some level of risk.
@@ -78,3 +78,6 @@ While using a cashback credit card can help you save money, it's important not t
 **The Bottom Line**
 
 Cashback credit cards can be a great way to save money on your purchases and earn rewards for your spending. By choosing the right card, using it strategically, and paying off your balance in full each month, you can maximize your rewards and save money in the process. Just be sure to monitor your account and avoid overspending to stay on track.
+
+
+{{- partial "analytics.html" . }}

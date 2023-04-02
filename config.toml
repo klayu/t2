@@ -8,6 +8,7 @@ publishDir = "public"
 enableRobotsTXT = true
 googleAnalytics = "G-G1TTB1QKFD"
 
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
