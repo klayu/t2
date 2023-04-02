@@ -19,7 +19,7 @@ Credit cards are a popular tool for making purchases, with their convenience and
 
 If you are just begining the joruney on earning **passive income**, these are a great way to earn a decent amount of cash.
 
-I just did a in depth analysis that shows that an average family can earn upto $1000 in cash ever.
+I just did a in depth analysis that shows that an average family can earn upto $1000 in cold hard cash every year.
 ![passive-income-calculator](/calculator.png)
 
 Now go ahead, try out this custom **passive income calculator** for **free** [Passive Income Calculator using Credit Cards](https://docs.google.com/spreadsheets/d/1Mhdh2HpYxMD0D2Wn_3wh8SoCt0VjEGkTWt4YvEhh29Q/edit?usp=sharing). Just replace four of your most common houshold expenses with what your family realistically spends and see how much you get to earn in cashbacks every month and year.
