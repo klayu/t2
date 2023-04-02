@@ -1,11 +1,13 @@
-baseURL = "https://klayu.github.io/t2/"
+baseURL = "https://www.relaxedincome.com"
 languageCode = "en-us"
-title = "BLOG : t2"
+title = "Relaxed Income"
 theme = "ananke"
 publishDir = "public"
 [permalinks]
   posts = "/:filename"
 enableRobotsTXT = true
+googleAnalytics = "G-G1TTB1QKFD"
+
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
