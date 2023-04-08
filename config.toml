@@ -18,3 +18,6 @@ disqusShortname = 'relaxedincome'
   changefreq = "monthly"
   priority = 0.5
   filename = "sitemap.xml"
+
+[params]
+  featured_image = "/surf.png"
