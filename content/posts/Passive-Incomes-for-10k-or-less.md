@@ -15,6 +15,7 @@ Visit the [Hugo](https://gohugo.io) website! -->
 
 If you are looking to invest in passive income opportunities that require minimal investment, treasury bills and covered call ETFs are great options to consider. In this article, we will explore these two investment strategies and how you can invest in them with 10K or less.
 
+
 **What are Treasury Bills?**
 
 Treasury bills, also known as T-bills, are short-term debt securities issued by the US government. They are considered one of the safest investments because they are backed by the full faith and credit of the US government. Treasury bills have a maturity date of less than one year and are issued with a discount to their face value. When the bill matures, the investor receives the face value of the bill.
@@ -78,6 +79,15 @@ Interest rates: The interest rates on treasury bills are low compared to other i
 Fees: There may be fees associated with buying and selling treasury bills and covered call ETFs. Make sure you understand the fees before investing.
 
 Market conditions: Treasury bill interest rates and covered call premiums are affected by market conditions. If interest rates or stock prices change, the amount of passive income you receive may also change.
+
+
+**Calculator**
+
+I just did a in depth analysis that shows how much can you earn if you invested $10000 today. The rates here auto update every few minutes so its very upto date. 
+![passive-income-calculator](/etfandcdreturns.png)
+
+Get Access to the **10K passive income calculator** for **free** here [Passive Income Calculator Using 10K of funds](/subsrcibe/). 
+
 
 **Conclusion**
 

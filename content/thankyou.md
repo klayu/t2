@@ -23,9 +23,9 @@ Aria ( Blog Owner )
 1. [Passive Income Calculator using Credit Cards](https://docs.google.com/spreadsheets/d/1Mhdh2HpYxMD0D2Wn_3wh8SoCt0VjEGkTWt4YvEhh29Q/edit?usp=sharing)
 
 
-## Passive Income Calculators : Complex
+## Passive Income Calculators : Medium
 
-1. Coming soon ( send in your requests )
+1. [Passive Income Calculator with 10K savings - Covered Call ETFs](https://docs.google.com/spreadsheets/d/1bPF43BYoDUY0sgg6mWf6d0iNbnbK6yRRuEl6vLk_eT0/edit?usp=sharing)
 
 [Make new calculator requests here](/request-new-calculators/)
 
