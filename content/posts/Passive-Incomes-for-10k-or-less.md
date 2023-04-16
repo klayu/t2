@@ -3,7 +3,7 @@ title: "Passive Incomes for 10k or less : Yes, you can earn $1000 without workin
 date: 2023-04-08T01:09:48-07:00
 description: "Here we show you an extremely low risk and and another medium risk approach to earn passive income "
 featured_image: "/tbills.png"
-tags: ["tbills"]
+tags: ["passive income calculators","super safe investments"]
 ---
 
 

@@ -3,7 +3,7 @@ title: "Best Dividend Stocks for passive income : Yes, you can earn $1000 withou
 date: 2023-04-08T01:09:48-07:00
 description: "Earning income while you sleep and make the big companies work for you!"
 featured_image: "/surf.png"
-tags: ["dividend investing"]
+tags: ["passive income calculators","dividend investing","medium safe investments"]
 ---
 
 
