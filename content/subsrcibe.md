@@ -7,7 +7,7 @@ type: page
 menu: main
 
 ---
-Please subsrcibe to get access to all calculators and get notified when I post new plactical tips and calculators that help you earn passive income.
+Please subsrcibe to get access to all calculators and get notified when I post new practical tips and calculators that help you earn passive income.
 
 {{< rawhtml  >}}
 
