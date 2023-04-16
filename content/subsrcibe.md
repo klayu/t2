@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Subsrcibe
 featured_image: ''
 omit_header_text: true
 description: We'd love to hear from you
@@ -7,9 +7,7 @@ type: page
 menu: main
 
 ---
-
-
-Reach out to us if you have any suggestions or questions about advertising or sales.
+Please subsrcibe to get notified when I post new plactical tips and calculators to earn passive income.
 
 {{< rawhtml  >}}
 
