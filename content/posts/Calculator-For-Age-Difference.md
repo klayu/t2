@@ -1,7 +1,7 @@
 ---
 title: "Calculator For Age Difference : See Combined Earning years"
 date: 2023-04-16T22:09:48-07:00
-description: "We built this easy to use calculator to help you estimat exact costs for your next road trip"
+description: "We built this easy calculator to find the age difference between a couple"
 featured_image: "/vows-on-the-move-p0vZplFhKYI-unsplash.jpg"
 tags: ["interesting calculators"]
 ---
