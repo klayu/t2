@@ -1,7 +1,7 @@
 ---
 title: "Gas Road Trip Calculator : Gas & Electric : US Version"
 date: 2023-04-16T01:09:48-07:00
-description: "We built this easy to use calculator to help you estimat exact costs for your next road trip"
+description: "We built this easy to use calculator to help estimate gas costs for your next road trip"
 featured_image: "/familyRoadTrip.png"
 tags: ["saving calculators"]
 ---
