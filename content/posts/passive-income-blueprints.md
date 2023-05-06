@@ -2,7 +2,7 @@
 title: A Blueprint to Consistently Create Passive Income
 description: A step-by-step guide to creating a reliable and passive income stream
 date: 2023-05-06
-tags: passive income, finance, entrepreneurship
+tags: [passive income, finance, entrepreneurship]
 featured_image: /surf.png
 author: Sam
 ---
