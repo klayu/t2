@@ -1,0 +1,20 @@
+baseURL = "https://www.relaxedincome.com"
+languageCode = "en-us"
+title = "Relaxed Income"
+theme = "ananke"
+publishDir = "public"
+
+enableRobotsTXT = true
+googleAnalytics = "G-G1TTB1QKFD"
+disqusShortname = 'relaxedincome'
+
+
+
+[permalinks]
+  posts = "/:filename"
+
+
+[sitemap]
+  changefreq = "monthly"
+  priority = 0.5
+  filename = "sitemap.xml"
