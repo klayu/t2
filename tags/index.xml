@@ -5,11 +5,15 @@
     <link>https://www.relaxedincome.com/tags/</link>
     <description>Recent content in Tags on Relaxed Income</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://www.relaxedincome.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sat, 06 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.relaxedincome.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>artists</title>
+      <link>https://www.relaxedincome.com/tags/artists/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/artists/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>entrepreneurship</title>
@@ -57,6 +61,15 @@
     </item>
     
     <item>
+      <title>monetization</title>
+      <link>https://www.relaxedincome.com/tags/monetization/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.relaxedincome.com/tags/monetization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>money-making</title>
       <link>https://www.relaxedincome.com/tags/money-making/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
@@ -89,15 +102,6 @@
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
       
       <guid>https://www.relaxedincome.com/tags/passive-income/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>passive income, artists, monetization</title>
-      <link>https://www.relaxedincome.com/tags/passive-income-artists-monetization/</link>
-      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.relaxedincome.com/tags/passive-income-artists-monetization/</guid>
       <description></description>
     </item>
     
