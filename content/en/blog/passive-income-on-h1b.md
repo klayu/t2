@@ -32,11 +32,11 @@ First, some basics :
 
 T-bills, T-notes, and T-bonds are different types of U.S. Treasury securities with varying maturities and characteristics. This of these as "Fixed Deposit" or "Certificates of Deposits" with US Fedral Government.
 
-Treasury Bills (T-bills): T-bills are short-term debt securities with a maturity of one year or less. They are issued at a discount to their face value and do not pay periodic interest payments. Instead, investors earn interest by buying T-bills at a discount and receiving the full face value upon maturity. T-bills are considered one of the safest investments because they are backed by the U.S. government.
+**Treasury Bills (T-bills):** T-bills are short-term debt securities with a maturity of one year or less. They are issued at a discount to their face value and do not pay periodic interest payments. Instead, investors earn interest by buying T-bills at a discount and receiving the full face value upon maturity. T-bills are considered one of the safest investments because they are backed by the U.S. government.
 
-Treasury Notes (T-notes): T-notes have longer maturities than T-bills, ranging from 2 to 10 years. They pay interest semi-annually, and the principal is repaid at maturity. T-notes are issued with a fixed interest rate determined at auction. They are considered medium-term investments and provide investors with a predictable stream of income.
+**Treasury Notes (T-notes):** T-notes have longer maturities than T-bills, ranging from 2 to 10 years. They pay interest semi-annually, and the principal is repaid at maturity. T-notes are issued with a fixed interest rate determined at auction. They are considered medium-term investments and provide investors with a predictable stream of income.
 
-Treasury Bonds (T-bonds): T-bonds have the longest maturities among Treasury securities, typically ranging from 10 to 30 years. Like T-notes, they pay interest semi-annually. T-bonds also have a fixed interest rate determined at auction. They provide investors with long-term income and are often used to fund government projects and initiatives.
+**Treasury Bonds (T-bonds):** T-bonds have the longest maturities among Treasury securities, typically ranging from 10 to 30 years. Like T-notes, they pay interest semi-annually. T-bonds also have a fixed interest rate determined at auction. They provide investors with long-term income and are often used to fund government projects and initiatives.
 
 Both T-notes and T-bonds are known as coupon securities because they make regular interest payments (known as coupon payments) to investors. Upon maturity, the principal amount of both T-notes and T-bonds is repaid. Both T-notes and T-bonds are considered relatively safe investments, backed by the U.S. government.
 
@@ -49,13 +49,13 @@ Follow these steps :
 
 Investing in treasury bills is straightforward. You can invest in them directly through the TreasuryDirect.com website, or you can buy them through a broker like Fidelity or Vanguard. Here are the steps to invest in T-bills:
 
-1. Open a TreasuryDirect account: If you want to invest directly in T-bills, you need to open a TreasuryDirect account. The process is simple and can be done online.
+**1. Open a TreasuryDirect account**: If you want to invest directly in T-bills, you need to open a TreasuryDirect account. The process is simple and can be done online.
 
-2. Fund your account: Once your account is open, you need to fund it. You can do this through a bank transfer, a payroll deduction, or a check.
+**2. Fund your account**: Once your account is open, you need to fund it. You can do this through a bank transfer, a payroll deduction, or a check.
 
-3. Buy T-bills: Once your account is funded, you can buy T-bills through the TreasuryDirect website. You can choose the maturity date and the amount you want to invest.
+**3. Buy T-bills**: Once your account is funded, you can buy T-bills through the TreasuryDirect website. You can choose the maturity date and the amount you want to invest.
 
-4. Receive interest payments: When the T-bill matures, you will receive the face value of the bill plus the interest earned.
+**4. Receive interest payments**: When the T-bill matures, you will receive the face value of the bill plus the interest earned.
 
 TOTAL SAVED A MONTH : 83$ + 37$ = 120$
 
