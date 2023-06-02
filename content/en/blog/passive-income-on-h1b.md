@@ -60,7 +60,7 @@ Both T-notes and T-bonds are known as coupon securities because they make regula
 The U.S. Treasury Department conducts regular auctions to issue new T-notes and T-bonds, and investors can buy and sell them on the secondary market through brokers and financial institutions.
 
 
-Now you know, these three terms, I want you to start by dipping your toes gentley by buying a 30 day T-Bill for a small amount. Say 10,000$. 
+Now that you know these three terms, I want you to start by dipping your toes gentley by buying a 30 day T-Bill for a small amount. Say 10,000$. 
 
 **Follow these steps :**
 
@@ -76,6 +76,8 @@ Investing in treasury bills is straightforward. You can invest in them directly 
 
 TOTAL SAVED A MONTH : 83$ + 37$ = 120$
 
+If you are more of a visual learner, have a look at this video.
+
 {{< youtube EtTkcyNt0Cg >}}
 
 
@@ -86,7 +88,7 @@ Investing in the stock market can be a great way to generate passive income, as 
 
 You will, however, want to do your due diligence when selecting the stocks you will invest in. Investing in stocks can be risky, so you will want to make sure that you are making informed decisions before committing to any investments.
 
-Leave a comment below if you want more details how to get started.
+Coming in Part 2 : Leave a comment below if you want more details how to get started.
 
 ## Investing in Real Estate 
 
@@ -94,7 +96,7 @@ Investing in real estate is another great way to generate passive income while o
 
 You will, however, need to make sure that you are familiar with the laws and regulations of the area where you are looking to invest in real estate. You will also want to make sure to find reliable tenants who will be able to pay rent in a timely manner. 
 
-Leave a comment below if you want more details how to get started.
+Coming in Part 2 : Leave a comment below if you want more details how to get started.
 
 ## Starting an Online Business 
 
@@ -104,4 +106,4 @@ In order to be successful, you will need to make sure that you are creating a pr
 
 By utilizing these creative strategies, you can generate passive income while on an H1B Visa and maximize your time in the United States.
 
-Leave a comment below if you want more details how to get started.
+Coming in Part 2 : Leave a comment below if you want more details how to get started.
