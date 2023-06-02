@@ -27,7 +27,7 @@ And always, always pay your credit card balance in month.
 TOTAL SAVED A MONTH : 83$
 
 
-## Keeping your Parents Safe as a Immigrant on H1B 
+## Quick Sidenote : Keeping your Parents Safe as a Immigrant on H1B
 
 As a Immigrant, me and my spouse left our home country to settle in US.
 
@@ -37,7 +37,7 @@ For the longest time, I wished for a service that would call my parents on my be
 
 DadsCall.com is a innovative online service designed to make calls to your loved ones living remotely and ensuring they are safe. It literally take 5 mins to setup and the service will call your parents every day, rain or shine.
 
-If you see value in this blog and would like to support us, please give this service a try. [DadsCall.com](https://www.DadsCall.com/) 
+If you see value in this blog and would like to support us, please give this service a try. [DadsCall.com](https://www.DadsCall.com/). I have a free plan there, and the paid plan  - that calls your parents every day - is also not very expensive.
 
 Lets continue making more passive income.
 
@@ -45,7 +45,7 @@ Lets continue making more passive income.
 
 ![TBills](/tbills.png)
 
-**First, some basics : **
+**First, some basics :**
 
 T-bills, T-notes, and T-bonds are different types of U.S. Treasury securities with varying maturities and characteristics. This of these as "Fixed Deposit" or "Certificates of Deposits" with US Fedral Government.
 
@@ -62,7 +62,7 @@ The U.S. Treasury Department conducts regular auctions to issue new T-notes and 
 
 Now you know, these three terms, I want you to start by dipping your toes gentley by buying a 30 day T-Bill for a small amount. Say 10,000$. 
 
-**Follow these steps : **
+**Follow these steps :**
 
 Investing in treasury bills is straightforward. You can invest in them directly through the TreasuryDirect.gov website, or you can buy them through a broker like Fidelity or Vanguard. Here are the steps to invest in T-bills:
 
