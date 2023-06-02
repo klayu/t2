@@ -19,7 +19,7 @@ Now go ahead, try out this custom **credit card income calculator** for **free**
 
 There is really no reason to not do this. 
 
-Honestly, I urge you not to continue reading unless you take get one of the above credit cards.
+Honestly, I urge you not to continue reading unless you get one of the above credit cards.
 And always, always pay your credit card balance in month.
 
 TOTAL SAVED A MONTH : 83$
