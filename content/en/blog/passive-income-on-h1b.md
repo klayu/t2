@@ -35,11 +35,11 @@ For the longest time, I wished for a service that would call my parents on my be
 
 👉 So I built [DadsCall.com](https://www.DadsCall.com/) 
 
-DadsCall.com is a innovative online service designed to make calls to your loved ones living remotely and ensuring they are safe. It literally take 5 mins to setup and the service will call your parents every day, rain or shine.
+DadsCall.com is a innovative online service designed to make calls to your loved ones living remotely and ensuring they are safe. It literally takes 5 mins to setup and the service will call your parents every day, rain or shine.
 
-If you see value in this blog and would like to support us, please give this service a try. [DadsCall.com](https://www.DadsCall.com/). I have a free plan there, and the paid plan  - that calls your parents every day - is also not very expensive.
+If you see value in this blog and would like to support us, please give our service a try. [DadsCall.com](https://www.DadsCall.com/), I have a free plan there, and the paid plan  - that calls your parents every day - is also not very expensive.
 
-Lets continue making more passive income.
+Lets continue making more passive income, shall we.
 
 ## EASY & LOW RISK : Get 450$/year or 37$/month by keeping your money with US Treasry Department for 1 month.
 
