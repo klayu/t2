@@ -47,7 +47,7 @@ Lets continue making more passive income, shall we.
 
 **First, some basics :**
 
-T-bills, T-notes, and T-bonds are different types of U.S. Treasury securities with varying maturities and characteristics. This of these as "Fixed Deposit" or "Certificates of Deposits" with US Fedral Government.
+T-bills, T-notes, and T-bonds are different types of U.S. Treasury securities with varying maturities and characteristics. Think of these as "Fixed Deposit" or "Certificates of Deposits" with US Fedral Government.
 
 **Treasury Bills (T-bills):** T-bills are short-term debt securities with a maturity of one year or less. They are issued at a discount to their face value and do not pay periodic interest payments. Instead, investors earn interest by buying T-bills at a discount and receiving the full face value upon maturity. T-bills are considered one of the safest investments because they are backed by the U.S. government.
 
