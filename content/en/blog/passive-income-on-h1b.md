@@ -10,14 +10,16 @@ author: Sam
 Living and working in the United States on an H1B Visa can be a great opportunity for professional growth, but there are some restrictions when it comes to generating passive income. Here are some creative ideas that can help you generate passive income while on an H1B Visa. 
 
 ## EASY & LOW RISK : Get 1000$/year or 83$ every month using the right Credit Card.
-I just did a in depth analysis that shows that an average family can earn upto $1000 in cold hard cash every year.
-![passive-income-calculator](/calculator.png)
 
 Cashback credit cards are a type of credit card that offers cashback rewards for using the card. This means that you can earn a percentage of your purchase back in cash. The amount of cashback you can earn will vary depending on the credit card and the purchase category, but it's typically between 1-5% of your total purchase amount.
 
-Now go ahead, try out this custom **credit card income calculator** for **free** [Passive Income Calculator using Credit Cards](/subsrcibe/). Just replace four of your most common houshold expenses with what your family realistically spends and see how much you get to earn in cashbacks every month and year.
 
-There is really no reason to not do this. 
+Have a look at my in depth analysis that shows that an average family can earn upto $1000 in cold hard cash every year.
+![passive-income-calculator](/calculator.png)
+
+Dont believe me, try out this custom **credit card income calculator** I built just for you [Passive Income Calculator using Credit Cards](/subsrcibe/). Just replace four of your most common houshold expenses with what your family realistically spends and see how much you get to earn in cashbacks every month and year.
+
+There is really **no reason** to not do this. 
 
 Honestly, I urge you not to continue reading unless you get one of the above credit cards.
 And always, always pay your credit card balance in month.
