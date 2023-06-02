@@ -27,13 +27,13 @@ And always, always pay your credit card balance in month.
 TOTAL SAVED A MONTH : 83$
 
 
-## Keeping your Parents Safe 
+## Keeping your Parents Safe as a Immigrant on H1B 
 
 As a Immigrant, me and my spouse left our home country to settle in US.
 
 For the longest time, I wished for a service that would call my parents on my behalf and just ask them if they were all fine. Yes, I could Whatsapp them, but sometimes we all forget. 
 
-So I built [DadsCall.com](https://www.DadsCall.com/) 
+👉 So I built [DadsCall.com](https://www.DadsCall.com/) 
 
 DadsCall.com is a innovative online service designed to make calls to your loved ones living remotely and ensuring they are safe. It literally take 5 mins to setup and the service will call your parents every day, rain or shine.
 
@@ -45,7 +45,7 @@ Lets continue making more passive income.
 
 ![TBills](/tbills.png)
 
-First, some basics : 
+**First, some basics : **
 
 T-bills, T-notes, and T-bonds are different types of U.S. Treasury securities with varying maturities and characteristics. This of these as "Fixed Deposit" or "Certificates of Deposits" with US Fedral Government.
 
@@ -60,13 +60,13 @@ Both T-notes and T-bonds are known as coupon securities because they make regula
 The U.S. Treasury Department conducts regular auctions to issue new T-notes and T-bonds, and investors can buy and sell them on the secondary market through brokers and financial institutions.
 
 
-Now you know, these three term, I want you to start by dipping your toes gentley by buying a 30 day T-Bill for a small amount. Say 10,000$. 
+Now you know, these three terms, I want you to start by dipping your toes gentley by buying a 30 day T-Bill for a small amount. Say 10,000$. 
 
 **Follow these steps : **
 
 Investing in treasury bills is straightforward. You can invest in them directly through the TreasuryDirect.gov website, or you can buy them through a broker like Fidelity or Vanguard. Here are the steps to invest in T-bills:
 
-**1. Open a TreasuryDirect account**: If you want to invest directly in T-bills, you need to open a TreasuryDirect account. The process is simple and can be done online. Open it here [TreasuryDirect](https://www.treasurydirect.gov/) 
+**1. Open a TreasuryDirect account**: If you want to invest directly in T-bills, you need to open a TreasuryDirect account. The process is simple and can be done online. Open it here [TreasuryDirect.gov](https://www.treasurydirect.gov/) 
 
 **2. Fund your account**: Once your account is open, you need to fund it. You can do this through a bank transfer, a payroll deduction, or a check.
 
